@@ -2,7 +2,7 @@
 
 ### ℹ️ Sobre Mim
 
-Sou estudante do curso de Ciência da Computação oferecido pelo Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ) e atuo como desenvolvedor front-end no Ramo Estudantil IEEE CEFET/RJ, trabalhando em projetos web internos e para clientes externos ao ramo. Estou sempre em busca de oportunidades para aprofundar meus conhecimentos, obter experiência e ampliar minhas conexões.
+Sou estudante de Ciência da Computação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ) e atuo como desenvolvedor front-end no Ramo Estudantil IEEE CEFET/RJ, trabalhando em projetos web internos e para clientes externos ao ramo. Estou sempre em busca de oportunidades para aprofundar meus conhecimentos, obter experiência e ampliar minhas conexões.
 
 ### 🛠️ Principais Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=js,react,vite,html,css,postman,git,figma)](https://skillicons.dev)
