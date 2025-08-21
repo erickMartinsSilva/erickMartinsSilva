@@ -1,20 +1,20 @@
-<h2 align="center">Olá! Bem-vindo ao meu perfil. :)</h2>
+<h2 align="center">Hello! Welcome to my profile. :)</h2>
 
-### ℹ️ Sobre Mim
+### ℹ️ About me
 
-Sou estudante de Ciência da Computação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ) e desenvolvedor front-end no Ramo Estudantil IEEE CEFET/RJ, trabalhando em projetos web internos e para clientes externos ao ramo. Estou sempre em busca de oportunidades para aprofundar meus conhecimentos, obter experiência e ampliar minhas conexões.
+I am a Computer Science Student at the Federal Center for Technological Education "Celso Suckow da Fonseca" (CEFET/RJ) and a Front-end Developer for the CEFET/RJ IEEE Student Branch, where I work in web projects for not only the branch, but also outside clients. I'm always looking for opportunities to deepen my knowledge and understanding, obtain experience and expand my connections.
 
-### 🛠️ Principais Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,react,vite,html,css,postman,git,figma)](https://skillicons.dev)
+### 🛠️ Tech Stack
+[![My Stack](https://skillicons.dev/icons?i=js,react,vite,html,css,postman,git,figma)](https://skillicons.dev)
 
-### 📈 Estatísticas
+### 📈 Stats
 
-<div align="center">
+<div>
 	<img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=erickMartinsSilva&rank_icon=github&theme=transparent"/>
 	<img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickMartinsSilva&theme=transparent&layout=compact&langs_count=8&hide_progress=true&card_width=320" />
 </div>
 
-### 💬 Fale comigo!
+### 💬 Contact me!
 <a href="https://linkedin.com/in/erick-martins-silva">
 	<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
