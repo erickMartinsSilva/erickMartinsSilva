@@ -1,23 +1,11 @@
 <h2 align="center">Olá! Bem-vindo ao meu perfil. :)</h2>
 
-<div align="center">
-	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white"/>
-	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
-<br/>
-<div align="center">
-	<img src="https://www.codewars.com/users/erickmsilva/badges/micro"/>
-</div>
-
 ### ℹ️ Sobre Mim
 
-- 💻 Estou estudando Ciência da Computação no CEFET/RJ;
-- ⚛️ Atuo como desenvolvedor front-end na equipe WolfByte do Ramo Estudantil IEEE CEFET/RJ;
-- ❓ Tenho interesse em aprofundar meus conhecimentos à respeito de Blockchain e Web3;
-- 🎮 No meu tempo livre, gosto de jogar, ouvir música e ler.
+Sou estudante do curso de Ciência da Computação oferecido pelo Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ) e atuo como desenvolvedor front-end no Ramo Estudantil IEEE CEFET/RJ, trabalhando em projetos web internos e para clientes externos ao ramo. Estou sempre em busca de oportunidades para aprofundar meus conhecimentos, obter experiência e ampliar minhas conexões.
+
+### 🛠️ Principais Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=js,react,vite,html,css,postman,git,figma)](https://skillicons.dev)
 
 ### 📈 Estatísticas
 
@@ -26,4 +14,10 @@
 	<img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickMartinsSilva&theme=transparent&layout=compact&langs_count=8&hide_progress=true&card_width=320" />
 </div>
 
-### [![An image of @dynorph's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dynorph)](https://holopin.io/@dynorph)
+### 💬 Fale comigo!
+<a href="https://linkedin.com/in/erick-martins-silva">
+	<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:erickmsilva19@gmail.com">
+	<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
