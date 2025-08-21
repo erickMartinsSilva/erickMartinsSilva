@@ -7,6 +7,9 @@ I am a Computer Science Student at the Federal Center for Technological Educatio
 ### 🛠️ Tech Stack
 [![My Stack](https://skillicons.dev/icons?i=js,react,vite,html,css,postman,git,figma)](https://skillicons.dev)
 
+### 📖 Currently learning...
+[![Learning](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
+
 ### 📈 Stats
 
 <div>
