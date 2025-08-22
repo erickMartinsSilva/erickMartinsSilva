@@ -21,6 +21,9 @@ I am a Computer Science Student at the Federal Center for Technological Educatio
 <a href="https://linkedin.com/in/erick-martins-silva">
 	<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+<a href="https://x.com/erick_ms19">
+	<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
 <a href="mailto:erickmsilva19@gmail.com">
 	<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
