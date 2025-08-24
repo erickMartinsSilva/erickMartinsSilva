@@ -2,7 +2,7 @@
 
 ### ℹ️ About me
 
-I am a Computer Science Student at the Federal Center for Technological Education "Celso Suckow da Fonseca" (CEFET/RJ) and a Front-end Developer for the CEFET/RJ IEEE Student Branch, where I work in web projects for not only the branch, but also outside clients. I'm always looking for opportunities to deepen my knowledge and understanding, obtain experience and expand my connections.
+I am a Computer Science Student at the Federal Center for Technological Education "Celso Suckow da Fonseca" (CEFET/RJ) and a Front-end Developer at the WolfByte team of the CEFET/RJ IEEE Student Branch, where I work in responsive and accessible web solutions for not only the branch, but also outside clients. I'm always looking for opportunities to deepen my knowledge and understanding, obtain experience and expand my connections.
 
 ### 🛠️ Tech Stack
 [![My Stack](https://skillicons.dev/icons?i=js,react,vite,html,css,postman,git,figma)](https://skillicons.dev)
