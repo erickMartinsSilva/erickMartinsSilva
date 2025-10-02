@@ -10,7 +10,7 @@
 [![My Stack](https://skillicons.dev/icons?i=js,react,vite,html,css,postman,git,figma)](https://skillicons.dev)
 
 ### 📖 Currently learning...
-[![Learning](https://skillicons.dev/icons?i=cpp,dart,flutter,linux)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cpp,linux)](https://skillicons.dev)
 
 ### 📈 Stats
 
