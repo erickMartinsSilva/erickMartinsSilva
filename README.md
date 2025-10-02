@@ -2,7 +2,7 @@
 
 ### ℹ️ About me
 
-- Computer Science undergraduate at CEFET/RJ Maracanã;
+- Computer Science undergraduate at CEFET/RJ;
 - Front-end Developer at Wolfbyte, IEEE CEFET/RJ Student Branch;
 - Interested in Blockchain and Web3 development.
 
