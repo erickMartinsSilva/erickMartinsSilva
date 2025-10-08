@@ -1,25 +1,29 @@
-<h2 align="center">Hello! Welcome to my profile. :)</h2>
+<h1 align="center">Hello! Welcome to my profile. :)</h2>
 
-### ℹ️ About me
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,git,postman,figma" />
+  </a>
+</p>
 
-- Computer Science undergraduate at CEFET/RJ;
-- Front-end Developer at Wolfbyte, IEEE CEFET/RJ Student Branch;
-- Interested in Blockchain and Web3 development.
+<h2>ℹ️ About me</h2>
 
-### 🛠️ Tech Stack
-[![My Stack](https://skillicons.dev/icons?i=js,react,vite,html,css,postman,git,figma)](https://skillicons.dev)
+My name is Erick Martins Silva and I am a Computer Science undergraduate at the Federal Center for Technological Education "Celso Suckow da Fonseca" (CEFET/RJ), as well as a Front-end Developer for the Computer Society chapter of the CEFET/RJ IEEE Student Branch. 
 
-### 📖 Currently learning...
+I'm passionate about building accessible and user-centered web solutions, interested in research and curious about programming solutions for Blockchain and Web3 environments.
+
+<h2>📖 Currently studying...</h2>
+
 [![Learning](https://skillicons.dev/icons?i=cpp,linux)](https://skillicons.dev)
 
-### 📈 Stats
+<h2>📈 Stats</h2>
 
-<div>
+<div align="center">
 	<img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=erickMartinsSilva&rank_icon=github&theme=transparent"/>
 	<img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickMartinsSilva&theme=transparent&layout=compact&langs_count=8&hide_progress=true&card_width=320" />
 </div>
 
-### 💬 Let's connect!
+<h2>💬 Let's connect!</h2>
 <a href="https://linkedin.com/in/erick-martins-silva">
 	<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
