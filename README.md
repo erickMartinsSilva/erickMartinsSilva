@@ -8,7 +8,7 @@
 
 <h2>ℹ️ About me</h2>
 
-My name is Erick Martins Silva and I am a Computer Science undergraduate at the Federal Center for Technological Education "Celso Suckow da Fonseca" (CEFET/RJ), as well as a Front-end Developer for the Computer Society chapter of the CEFET/RJ IEEE Student Branch. 
+I am a Computer Science undergraduate at the Federal Center for Technological Education "Celso Suckow da Fonseca" (CEFET/RJ), as well as a Front-end Developer for the Computer Society chapter of the CEFET/RJ IEEE Student Branch. 
 
 I'm passionate about building accessible and user-centered web solutions, interested in research and curious about programming for Blockchain and Web3 environments.
 
