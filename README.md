@@ -1,4 +1,4 @@
-<h1 align="center">Hello! Welcome to my profile. :)</h2>
+<h1 align="center">Hello! Welcome to my profile 👋</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -7,10 +7,7 @@
 </p>
 
 <h2>ℹ️ About me</h2>
-
-I am a Computer Science undergraduate at the Federal Center for Technological Education "Celso Suckow da Fonseca" (CEFET/RJ), as well as a Front-end Developer for the Computer Society chapter of the CEFET/RJ IEEE Student Branch. 
-
-I'm passionate about building accessible and user-centered web solutions, interested in research and curious about programming for Blockchain and Web3 environments.
+I'm a Computer Science student at the Federal Center for Technological Education "Celso Suckow da Fonseca" (CEFET/RJ) as well as a Web Front-end Developer at the Computer Society chapter of the CEFET/RJ IEEE Student Branch. Passionate about building user-centered web solutions, familiar with Agile and collaborative development environments, interested in academic research and curious about Blockchain/Web3 programming.
 
 <h2>📖 Currently studying...</h2>
 
