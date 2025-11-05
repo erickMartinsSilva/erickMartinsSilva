@@ -7,7 +7,7 @@ Passionate about building user-centered web solutions, familiar with Agile and c
 <h2>⚙️ Core Skills</h2>
 
 - **Languages**: `JavaScript`, `TypeScript`, `C`, `C++`, `Java`
-- **Frameworks and Libraries**: `React.js, React Router`
+- **Frameworks and Libraries**: `React.js`, `React Router`
 - **Tools**: `Git`, `Github`, `Postman`, `Figma`
 - **Methodologies**: `Scrum`, `Kanban`
 
