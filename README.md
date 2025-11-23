@@ -1,17 +1,17 @@
-<h2>ℹ️ About me</h2>
+<h2>ℹ️ Sobre mim</h2>
 
-Computer Science student at the Federal Center for Technological Education "Celso Suckow da Fonseca" (CEFET/RJ) and Web Front-end Developer at the Computer Society chapter of the CEFET/RJ IEEE Student Branch.
+Estudante de Ciência da Computação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ) e Desenvolvedor Front-end Web na equipe Computer Society do Ramo Estudantil IEEE CEFET/RJ.
 
-Passionate about building user-centered web solutions, familiar with Agile and collaborative development environments, interested in academic research and curious about Blockchain/Web3 programming.
+Apaixonado por desenvolver soluções web centradas no usuário, familiar com ambientes de desenvolvimento Ágil, interessado em pesquisa acadêmica e curioso sobre programação em ambientes Blockchain/Web3.
 
-<h2>⚙️ Core Skills</h2>
+<h2>⚙️ Habilidades</h2>
 
-- **Languages**: `JavaScript`, `TypeScript`, `C`, `C++`, `Java`
-- **Frameworks and Libraries**: `React.js`, `React Router`
-- **Tools**: `Git`, `Github`, `Postman`, `Figma`
-- **Methodologies**: `Scrum`, `Kanban`
+- **Linguagens**: `JavaScript`, `TypeScript`, `C`, `C++`, `Java`
+- **Frameworks e Bibliotecas**: `React.js`
+- **Ferramentas**: `Git`, `Github`, `Postman`, `Figma`
+- **Metodologias**: `Scrum`, `Kanban`
 
-<h2>💬 Contact me</h2>
+<h2>💬 Fale comigo!</h2>
 <a href="https://linkedin.com/in/erick-martins-silva">
 	<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -22,7 +22,7 @@ Passionate about building user-centered web solutions, familiar with Agile and c
 	<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<h2>📈 Stats</h2>
+<h2>📈 Estatísticas</h2>
 
 <div align="center">
 	<img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=erickMartinsSilva&rank_icon=github&theme=transparent"/>
