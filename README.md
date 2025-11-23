@@ -1,3 +1,8 @@
+<p align="center">
+	Português | 
+	<a href="./README.en.md">English</a>
+</p>
+
 <h2>ℹ️ Sobre mim</h2>
 
 Estudante de Ciência da Computação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ) e Desenvolvedor Front-end Web na equipe Computer Society do Ramo Estudantil IEEE CEFET/RJ.
