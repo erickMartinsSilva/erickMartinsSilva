@@ -1,3 +1,8 @@
+<p align="center">
+	<a href="./README.md">Português</a> | 
+	English
+</p>
+
 <h2>ℹ️ About me</h2>
 
 Computer Science student at the Federal Center for Technological Education of Rio de Janeiro (CEFET/RJ) and Front-end Web Developer in the Computer Society chapter of the IEEE CEFET/RJ Student Branch.
