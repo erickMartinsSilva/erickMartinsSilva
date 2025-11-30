@@ -5,7 +5,7 @@
 
 <h2>ℹ️ About me</h2>
 
-Computer Science student at the Federal Center for Technological Education of Rio de Janeiro (CEFET/RJ) and Front-end Web Developer in the Computer Society chapter of the IEEE CEFET/RJ Student Branch.
+Computer Science student at the Federal Center for Technological Education "Celso Suckow da Fonseca" (CEFET/RJ) and Front-end Web Developer in the Computer Society chapter of the IEEE CEFET/RJ Student Branch.
 
 Passionate for developing user-centered web solutions, familiar with Agile development environments, interested in academic research and curious about Blockchain/Web3 programming.
 
