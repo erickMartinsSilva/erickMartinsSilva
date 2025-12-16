@@ -7,6 +7,8 @@
 
 Estudante de Ciência da Computação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ) e Desenvolvedor Front-end Web na equipe Computer Society do Ramo Estudantil IEEE CEFET/RJ.
 
+Atualmente estagiando na área de Desenvolvimento de Software da empresa Rio Petroleo, uma empresa de consultoria tecnológica e de engenharia para empresas que atuam no setor de óleo e gás.
+
 Apaixonado por desenvolver soluções web centradas no usuário, familiar com ambientes de desenvolvimento Ágil, interessado em pesquisa acadêmica e curioso sobre programação em ambientes Blockchain/Web3.
 
 <h2>⚙️ Habilidades</h2>
