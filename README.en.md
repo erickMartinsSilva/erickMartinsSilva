@@ -7,6 +7,8 @@
 
 Computer Science student at the Federal Center for Technological Education "Celso Suckow da Fonseca" (CEFET/RJ) and Front-end Web Developer in the Computer Society chapter of the IEEE CEFET/RJ Student Branch.
 
+Currently involved in a Software Development internship at Rio Petroleo, a company that offers tech and engineering consulting services for companies in the oil and gas segment.
+
 Passionate for developing user-centered web solutions, familiar with Agile development environments, interested in academic research and curious about Blockchain/Web3 programming.
 
 <h2>⚙️ Skills</h2>
