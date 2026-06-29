@@ -5,15 +5,13 @@
 
 <h2>ℹ️ Sobre mim</h2>
 
-Estudante de Ciência da Computação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ) e Desenvolvedor Front-end Web na equipe Computer Society do Ramo Estudantil IEEE CEFET/RJ.
-
-Atualmente estagiando na área de Desenvolvimento de Software da empresa Rio Petroleo, uma empresa de consultoria tecnológica e de engenharia para empresas que atuam no setor de óleo e gás.
-
-Apaixonado por desenvolver soluções web centradas no usuário, familiar com ambientes de desenvolvimento Ágil, interessado em pesquisa acadêmica e curioso sobre programação em ambientes Blockchain/Web3.
+- Desenvolvedor full-stack com experiência em programação de interfaces gráficas e servidores para aplicações web;
+- Estudante de Ciência da Computação (CEFET/RJ);
+- Interessado em DevOps, Computação em Nuvem e Programação Web3.
 
 <h2>⚙️ Habilidades</h2>
 
-- **Linguagens**: `JavaScript`, `TypeScript`, `C`, `C++`, `Java`
+- **Linguagens**: `JavaScript`, `TypeScript`
 - **Frameworks e Bibliotecas**: `React.js`
 - **Ferramentas**: `Git`, `Github`, `Postman`, `Figma`
 - **Metodologias**: `Scrum`, `Kanban`
