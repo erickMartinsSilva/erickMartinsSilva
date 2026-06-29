@@ -5,18 +5,16 @@
 
 <h2>ℹ️ About me</h2>
 
-Computer Science student at the Federal Center for Technological Education "Celso Suckow da Fonseca" (CEFET/RJ) and Front-end Web Developer in the Computer Society chapter of the IEEE CEFET/RJ Student Branch.
-
-Currently involved in a Software Development internship at Rio Petroleo, a company that offers tech and engineering consulting services for companies in the oil and gas segment.
-
-Passionate for developing user-centered web solutions, familiar with Agile development environments, interested in academic research and curious about Blockchain/Web3 programming.
+- Full-stack developer experienced in programming GUIs and servers for web applications;
+- Computer Science student at CEFET/RJ;
+- Interested in DevOps, Cloud Computing and Web3 Programming.
 
 <h2>⚙️ Skills</h2>
 
-- **Languages**: `JavaScript`, `TypeScript`, `C`, `C++`, `Java`
+- **Languages**: `JavaScript`, `TypeScript`
 - **Frameworks and Libraries**: `React.js`
 - **Tools**: `Git`, `Github`, `Postman`, `Figma`
-- **Methodologias**: `Scrum`, `Kanban`
+- **Methodologies**: `Scrum`, `Kanban`
 
 <h2>💬 Contact me!</h2>
 <a href="https://linkedin.com/in/erick-martins-silva">
