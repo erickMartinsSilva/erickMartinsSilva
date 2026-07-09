@@ -16,17 +16,6 @@
 - **Tools**: `Git`, `Github`, `Postman`, `Figma`
 - **Methodologies**: `Scrum`, `Kanban`
 
-<h2>💬 Contact me!</h2>
-<a href="https://linkedin.com/in/erick-martins-silva">
-	<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="https://x.com/erick_ms19">
-	<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-<a href="mailto:erickmsilva19@gmail.com">
-	<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
 <h2>📈 Stats</h2>
 
 <div align="center">
