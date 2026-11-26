@@ -6,14 +6,14 @@
 <h2>ℹ️ About me</h2>
 
 - Full-stack developer experienced in programming GUIs and servers for web applications;
-- Computer Science student at CEFET/RJ;
-- Interested in DevOps, Cloud Computing and Web3 Programming.
+- Computer Science student at UFCI/RJ (CEFET/RJ);
+- Interested in Software Engineering and DevOps.
 
 <h2>⚙️ Skills</h2>
 
-- **Languages**: `JavaScript`, `TypeScript`
-- **Frameworks and Libraries**: `React.js`
-- **Tools**: `Git`, `Github`, `Postman`, `Figma`
+- **Languages**: `JavaScript`, `TypeScript`, `Python`, `SQL`
+- **Frameworks and Libraries**: `React.js`, `Node.js`, `Express.js`, `Flask`, `FastAPI`
+- **Tools**: `Git`, `GitHub`, `Insomnia`, 
 - **Methodologies**: `Scrum`, `Kanban`
 
 <h2>📈 Stats</h2>
