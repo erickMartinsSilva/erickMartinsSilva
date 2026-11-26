@@ -7,13 +7,13 @@
 
 - Desenvolvedor full-stack com experiência em programação de interfaces gráficas e servidores para aplicações web;
 - Estudante de Ciência da Computação (CEFET/RJ);
-- Interessado em DevOps, Computação em Nuvem e Programação Web3.
+- Interessado em Engenharia de Software e DevOps.
 
 <h2>⚙️ Habilidades</h2>
 
-- **Linguagens**: `JavaScript`, `TypeScript`
-- **Frameworks e Bibliotecas**: `React.js`
-- **Ferramentas**: `Git`, `Github`, `Postman`, `Figma`
+- **Linguagens**: `JavaScript`, `TypeScript`, `Python`, `SQL`
+- **Frameworks e Bibliotecas**: `React.js`, `Node.js`, `Express.js`, `Flask`, `FastAPI`
+- **Ferramentas**: `Git`, `GitHub`, `Insomnia`, 
 - **Metodologias**: `Scrum`, `Kanban`
 
 <h2>📈 Estatísticas</h2>
