@@ -6,7 +6,7 @@
 <h2>ℹ️ Sobre mim</h2>
 
 - Desenvolvedor full-stack com experiência em programação de interfaces gráficas e servidores para aplicações web;
-- Estudante de Ciência da Computação (CEFET/RJ);
+- Estudante de Ciência da Computação (UFCI/RJ / CEFET/RJ);
 - Interessado em Engenharia de Software e DevOps.
 
 <h2>⚙️ Habilidades</h2>
